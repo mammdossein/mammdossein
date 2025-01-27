@@ -1,11 +1,24 @@
-# 👋 Hi, I’m Mohammad Hossein
+# 👨💻 **Hello World!** I'm Mohammad Hossein 
 
-- 👀 I’m interested in becoming a skilled **.NET Developer** and diving deep into **C#** programming.
-- 🌱 I’m currently learning **C#** and exploring **.NET** technologies to build impactful applications.
-- 🚀I believe in the power of community and collaboration, and I'm always eager to contribute and learn from others.
-- 🎯 My goal is to continually improve my skills, tackle coding challenges, and make a meaningful impact in the tech world!
-  
-<!---
-mammdossein/mammdossein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![.NET Developer](https://img.shields.io/badge/-.NET%20Developer-512BD4?logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
+[![C# Expert](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/mammdossein)
+
+🌟 **Aspiring .NET Developer** | 🧠 **C# Enthusiast** | 🚀 **Lifelong Learner**
+
+---
+
+### 🔥 **Passion & Purpose**
+- 💡 Deep diving into **C# & .NET** ecosystem to build robust applications
+- 🛠️ Exploring **Clean Architecture**, **Design Patterns**, and **Microservices**
+- 🌱 Currently mastering **ASP.NET Core**, **Entity Framework**, and **RESTful APIs**
+
+---
+
+### 🛠 **Tech Stack**
+```csharp
+public class DeveloperSkills {
+    string[] Core = { "C#", ".NET Core", "OOP", "LINQ", "SQL Server" };
+    string[] Learning = { "ASP.NET MVC", "Docker", "Azure", "Blazor" };
+    string[] Tools = { "Visual Studio", "Git", "Postman", "Azure DevOps" };
+}
